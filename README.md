@@ -1,4 +1,5 @@
 # assessment
+
 # Quixess Front-End Hiring Test
 
 Welcome, and thanks for your interest in joining **Quixess** as a Front-End Engineer!  
@@ -15,23 +16,28 @@ Build a modal component that guides a user through a **3-step onboarding process
 The modal should contain three steps, each as a separate tab:
 
 #### Step 1: Personal Info
+
 - Full Name (text input)
 - Email Address (email input)
 
 #### Step 2: Account Setup
+
 - Username (text input)
 - Password (password input)
 
 #### Step 3: Preferences
+
 - Theme selection (dropdown: `Light` or `Dark`)
 - Subscribe to newsletter? (checkbox)
 
 ### 🔄 Navigation
+
 - Show steps visually using tabs at the top or side (Step 1, 2, 3).
 - Users can navigate using **Next**, **Back**, and **Submit** buttons.
 - Each step should be a **separate React component**.
 
 ### 🔧 Tech Stack
+
 - React (with Hooks)
 - Tailwind CSS
 - No external UI libraries (no Material UI, Bootstrap, etc.)
@@ -61,4 +67,6 @@ The modal should contain three steps, each as a separate tab:
    cd quixess-frontend-test
    npm install
    npm run dev
- ### Submit your fork repository to us on Indeed via your email
+   ```
+
+### Submit your fork repository to us on Indeed via your email
